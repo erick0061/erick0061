@@ -4,6 +4,7 @@
 
 ![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=erick0061&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 ## Tecnologias que uso no meu dia 👇
 
 <div style="display: inline_block"><br/>
